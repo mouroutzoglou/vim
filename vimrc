@@ -48,3 +48,5 @@ set wildmenu
 set showmode
 
 set visualbell
+
+set title
