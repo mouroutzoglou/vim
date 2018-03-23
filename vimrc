@@ -8,6 +8,8 @@ set smartindent
 
 set mouse=a
 
+set sm
+
 set number
 
 set incsearch
@@ -40,8 +42,6 @@ set showcmd
 
 set incsearch
 set ignorecase
-
-set wildmenu
 
 set wildmenu
 
